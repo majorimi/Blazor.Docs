@@ -65,6 +65,7 @@ Below is a list of projects and resources from the Blazor community (links in ea
 * [Syncfusion Blazor UI Components](https://github.com/syncfusion/ej2-aspnet-core-blazor-samples) &ndash; A complete library of robust UI components including [Data Grid](https://ej2.syncfusion.com/aspnet-core-razor-components/Grid/DefaultFunctionalities), [Charts](https://ej2.syncfusion.com/aspnet-core-razor-components/Charts/polar), [Scheduler](https://ej2.syncfusion.com/aspnet-core-razor-components/Schedule/TimelineResourceGroup), [Inputs](https://ej2.syncfusion.com/aspnet-core-razor-components/TextBox/DefaultFunctionalities), and various [Editor](https://ej2.syncfusion.com/aspnet-core-razor-components/RichTextEditor/DefaultFunctionalities) components. 
 * [Telerik UI for Blazor](https://www.telerik.com/blazor-ui) &ndash; A native set of UI components for Blazor, including grid, charting, and calendar components.
 * [Toastr](https://github.com/BlazorExtensions/Toastr) &ndash; A Blazor port of [Toastr.js](https://github.com/CodeSeven/toastr/).
+* [Blazor Components](https://github.com/majorimi/blazor-components) is a set of UI Components and other useful Extensions.
 
 ## Samples and tutorials
 
